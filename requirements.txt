@@ -1,0 +1,8 @@
+SQLAlchemy~=1.4.28
+asyncpg==0.20.1
+databases[sqlite]~=0.5.3
+fastapi~=0.70.1
+graphene==3.0
+httpx==0.11.1
+pydantic~=1.8.2
+uvicorn==0.11.2
